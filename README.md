@@ -1,4 +1,4 @@
-<img src="Scientist.png" alt="alt text" style="height: 240px; width:200px;">
+<img src="Scientist.png" alt="alt text" style="height: 245px; width:210px;">
 
 - 🌱 I’m currently learning Data Science at soyhenry.com...
      actualmente en la etapa de labs 😓
