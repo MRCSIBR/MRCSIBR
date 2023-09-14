@@ -1,4 +1,4 @@
-#<img src="Scientist.png" alt="chibi" style="height: 265px; width:220px;">
+# <img src="Scientist.png" alt="chibi" style="height: 265px; width:220px;">
 
 - 🌱 I’m currently learning Data Science at soyhenry.com...
      actualmente en la etapa de labs 😓
