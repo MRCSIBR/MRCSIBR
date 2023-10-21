@@ -1,6 +1,6 @@
 
-
-- 🌱 I’m currently learning Data Science at soyhenry.com...
+- I use linux as my main operating system
+- 🌱 I succesfully finished Data Science at soyhenry.com (Oct 2023)
      
 <!---
 MRCSIBR/MRCSIBR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
