@@ -14,7 +14,7 @@
    
   <details open>
      <summary>
-       <a href="https://github.com/MRCSIBR/PI_DA"  target="_blank">
+       <a href="https://github.com/MRCSIBR/PI_ML_OPS"  target="_blank">
          <b>2. MLOps: ETL On Steam data + FastAPI deploy on Render.</b>
      </a>
      </summary>
