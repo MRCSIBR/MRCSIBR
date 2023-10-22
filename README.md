@@ -13,16 +13,15 @@
   1. Python script for uploading data to GCP
      https://github.com/MRCSIBR/Python_GoogleCLOUD
   
-  2. Bash script to deploy FastAPI + Docker
-     https://github.com/MRCSIBR/Script_Deploy_FastAPI
+  
   
   <details open>
   <summary>
     <a href="https://github.com/MRCSIBR/Script_Deploy_FastAPI"  target="_blank">
-      <b>Bash script to deploy FastAPI + Docker</b>
+      <b>2. Bash script to deploy FastAPI + Docker</b>
   </a>
   </summary>
-  <p>Bash script to deploy a Docler container + FastAPI</p>
+  <p>Bash script to deploy a Docker container + FastAPI</p>
   </details>
 
    <details open>
