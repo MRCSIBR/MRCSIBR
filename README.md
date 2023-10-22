@@ -1,5 +1,5 @@
 - Hi, my name is Marcos Ibarra, Data Scientist from Cordoba, Argentina.
-- 🐧 I use linux as my main operating system.
+- 🐧 I am gnu/linux user and system administrator.
 - 🌱 I succesfully finished the Data Science bootcamp at soyhenry.com (Oct 2023).
 
 ### + Projects
