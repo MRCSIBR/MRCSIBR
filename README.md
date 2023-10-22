@@ -3,8 +3,16 @@
 - 🌱 I succesfully finished the Data Science bootcamp at soyhenry.com (Oct 2023).
 
 ### + Projects
-
-   1.  https://github.com/MRCSIBR/PI_DA
+   <details open>
+  <summary>
+    <a href="https://github.com/MRCSIBR/PI_DA"  target="_blank">
+      <b>1. Data Analytics: Accidents on CABA(Argentina) </b>
+  </a>
+  </summary>
+  <p>Data Analytics project with Streamlit dashboard.</p>
+  </details>
+   
+   
    2.  https://github.com/MRCSIBR/PI_ML_OPS
    3.  https://github.com/MRCSIBR/PF_GRUPO
 
