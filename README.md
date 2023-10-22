@@ -30,7 +30,6 @@
      <p>My role in the team was as Cloud/Data Engineer, I had to configure, test and deploy VM machines, Google Cloud Storage buckets with team user access and write BigQuery tables.</p>
   </details>
    
-   3.  
 
 ### + Automation / Scripts
 
