@@ -6,7 +6,7 @@
    <details open>
   <summary>
     <a href="https://github.com/MRCSIBR/PI_DA"  target="_blank">
-      <b>1. Data Analytics: Accidents on CABA(Argentina) </b>
+      <b>1. Data Analytics: Road traffic accidents on CABA (Buenos Aires, Argentina) </b>
   </a>
   </summary>
   <p>Data Analytics project with Streamlit dashboard.</p>
