@@ -10,9 +10,14 @@
 
 ### + Automation / Scripts
 
-  1. https://github.com/MRCSIBR/Python_GoogleCLOUD
-  2. https://github.com/MRCSIBR/Script_Deploy_FastAPI
-  3. https://github.com/MRCSIBR/Autotype
+  1. Python script for uploading data to GCP
+     https://github.com/MRCSIBR/Python_GoogleCLOUD
+  
+  2. Bash script to deploy FastAPI + Docker
+     https://github.com/MRCSIBR/Script_Deploy_FastA PI
+  
+  3. Autotype simulator in Nim language  
+     https://github.com/MRCSIBR/Autotype
 <!---
 MRCSIBR/MRCSIBR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
