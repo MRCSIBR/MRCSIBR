@@ -16,17 +16,16 @@
   2. Bash script to deploy FastAPI + Docker
      https://github.com/MRCSIBR/Script_Deploy_FastA PI
   
-  3. Autotype simulator in Nim language  
-     https://github.com/MRCSIBR/Autotype
+  
 
    <details open>
   <summary>
-    <a href="     https://github.com/MRCSIBR/Autotype"  target="_blank">
-      <b>Autotype function in Nim language</b>
+    <a href="https://github.com/MRCSIBR/Autotype"  target="_blank">
+      <b>3. Autotype function in Nim language</b>
   </a>
   </summary>
   <p>A small program to simulate keyboard typing.</p>
-</details>
+   </details>
 
 <!---
 MRCSIBR/MRCSIBR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
