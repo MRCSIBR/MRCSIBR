@@ -18,7 +18,7 @@
          <b>2. MLOps: ETL On Steam data + FastAPI deploy on Render.</b>
      </a>
      </summary>
-     <p>Cleaning data from Steam (Digital videogame distribution) + ML: Recomendation system</p>
+     <p>Cleaning data from Steam (Digital videogame distribution) + ML: Recommendation system</p>
   </details>
    
    
