@@ -21,8 +21,16 @@
      <p>Cleaning data from Steam (Digital videogame distribution) + ML: Recommendation system</p>
   </details>
    
+   <details open>
+     <summary>
+       <a href="https://github.com/MRCSIBR/PF_GRUPO"  target="_blank">
+         <b>3. Team Project: Housing Market USA.</b>
+     </a>
+     </summary>
+     <p>My role in the team was as Cloud/Data Engineer, I had to configure, test and deploy VM machines, Google Cloud Storage buckets with team user access and write BigQuery tables.</p>
+  </details>
    
-   3.  https://github.com/MRCSIBR/PF_GRUPO
+   3.  
 
 ### + Automation / Scripts
 
