@@ -3,17 +3,25 @@
 - 🌱 I succesfully finished the Data Science bootcamp at soyhenry.com (Oct 2023).
 
 ### + Projects
-   <details open>
-  <summary>
-    <a href="https://github.com/MRCSIBR/PI_DA"  target="_blank">
-      <b>1. Data Analytics: Road traffic accidents on CABA (Buenos Aires, Argentina) </b>
-  </a>
-  </summary>
-  <p>Data Analytics project with Streamlit dashboard.</p>
+  <details open>
+     <summary>
+       <a href="https://github.com/MRCSIBR/PI_DA"  target="_blank">
+         <b>1. Data Analytics: Road traffic accidents on CABA (Buenos Aires, Argentina).</b>
+     </a>
+     </summary>
+     <p>Data Analytics project with Streamlit dashboard.</p>
+  </details>
+   
+  <details open>
+     <summary>
+       <a href="https://github.com/MRCSIBR/PI_DA"  target="_blank">
+         <b>2. MLOps: ETL On Steam data + FastAPI deploy on Render.</b>
+     </a>
+     </summary>
+     <p>Cleaning data from Steam (Digital videogame distribution) + ML: Recomendation system</p>
   </details>
    
    
-   2.  https://github.com/MRCSIBR/PI_ML_OPS
    3.  https://github.com/MRCSIBR/PF_GRUPO
 
 ### + Automation / Scripts
