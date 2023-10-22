@@ -27,8 +27,9 @@
          <b>3. Team Project: Housing Market USA.</b>
      </a>
      </summary>
-     <p>My role in the team was as Cloud/Data Engineer, I had to configure, test and deploy VM machines, Google Cloud Storage buckets with team user access and write BigQuery tables.</p>
-  </details>
+     <p>my role as a Cloud/Data Engineer involved working with various Google Cloud services, including VM machines, Google Cloud Storage, and BigQuery, to ensure efficient and secure data management and processing.</p>
+    
+   </details>
    
 
 ### + Automation / Scripts
