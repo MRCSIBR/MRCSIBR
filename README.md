@@ -18,6 +18,16 @@
   
   3. Autotype simulator in Nim language  
      https://github.com/MRCSIBR/Autotype
+
+   <details open>
+  <summary>
+    <a href="     https://github.com/MRCSIBR/Autotype"  target="_blank">
+      <b>Autotype function in Nim language</b>
+  </a>
+  </summary>
+  <p>A small program to simulate keyboard typing.</p>
+</details>
+
 <!---
 MRCSIBR/MRCSIBR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
