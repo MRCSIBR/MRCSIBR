@@ -10,9 +10,15 @@
 
 ### + Automation / Scripts
 
-  1. Python script for uploading data to GCP
-     https://github.com/MRCSIBR/Python_GoogleCLOUD
   
+  <details open>
+  <summary>
+    <a href="https://github.com/MRCSIBR/Python_GoogleCLOUD"  target="_blank">
+      <b>1. Python script for uploading data to GCP</b>
+  </a>
+  </summary>
+  <p>Python script to upload Yahoo Finance data to Google Cloud Storage.</p>
+  </details>
   
   
   <details open>
