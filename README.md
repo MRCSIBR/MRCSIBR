@@ -1,6 +1,6 @@
 
-- I use linux as my main operating system
-- 🌱 I succesfully finished the Data Science bootcamp at soyhenry.com (Oct 2023)
+- 🐧 I use linux as my main operating system.
+- 🌱 I succesfully finished the Data Science bootcamp at soyhenry.com (Oct 2023).
      
 <!---
 MRCSIBR/MRCSIBR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
