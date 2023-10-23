@@ -9,7 +9,7 @@
          <b>1. Data Analytics: Road traffic accidents on CABA (Buenos Aires, Argentina).</b>
      </a>
      </summary>
-     <p>Data Analytics project with Streamlit dashboard.</p>
+     <p>Data Analytics project with Streamlit dashboard and SQL integration.</p>
   </details>
    
   <details open>
