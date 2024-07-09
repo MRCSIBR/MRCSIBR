@@ -63,12 +63,12 @@
   <p>A small program to simulate keyboard typing.</p>
    </details>
 
-### Finance
+### + Finance
 
 <details open>
   <summary>
     <a href="https://github.com/MRCSIBR/Dashboard-Crypto-with-Historical-Simulation/tree/main"  target="_blank">
-      <b>1. Dashboard for crypto historical simulation.P</b>
+      <b>1. Dashboard for crypto historical simulation.</b>
   </a>
   </summary>
   <p>Python + Streamlit webapp to simulate evolution of crypto investment.</p>
