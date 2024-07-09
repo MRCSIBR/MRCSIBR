@@ -71,7 +71,7 @@
       <b>1. Dashboard for crypto historical simulation.</b>
   </a>
   </summary>
-  <p>Python + Streamlit webapp to simulate evolution of crypto investment.</p>
+  <p>Python + Streamlit webapp to simulate the evolution of a crypto investment.</p>
   </details>
 <!---
 MRCSIBR/MRCSIBR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
