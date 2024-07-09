@@ -63,6 +63,16 @@
   <p>A small program to simulate keyboard typing.</p>
    </details>
 
+### Finance
+
+<details open>
+  <summary>
+    <a href="https://github.com/MRCSIBR/Dashboard-Crypto-with-Historical-Simulation/tree/main"  target="_blank">
+      <b>1. Dashboard for crypto historical simulation.P</b>
+  </a>
+  </summary>
+  <p>Python + Streamlit webapp to simulate evolution of crypto investment.</p>
+  </details>
 <!---
 MRCSIBR/MRCSIBR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
