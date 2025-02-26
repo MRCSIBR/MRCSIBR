@@ -63,7 +63,7 @@
   <p>A small program to simulate keyboard typing.</p>
    </details>
 
-### + Webscraper
+### + Data Engineering
   <details open>
   <summary>
     <a href="https://github.com/MRCSIBR/ZH_webscraper"  target="_blank">
@@ -71,6 +71,15 @@
   </a>
   </summary>
   <p>ZH project.</p>
+  </details>
+
+  <details open>
+  <summary>
+    <a href="https://github.com/MRCSIBR/Alphacast_Practica_1"  target="_blank">
+      <b>ETL on INDEC food consumer prices with Alphacast library</b>
+  </a>
+  </summary>
+  <p>Alphacast technical test</p>
   </details>
 
 ### + Finance
