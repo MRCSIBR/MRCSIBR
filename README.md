@@ -67,16 +67,16 @@
   <details open>
   <summary>
     <a href="https://github.com/MRCSIBR/ZH_webscraper"  target="_blank">
-      <b>Webscraper for dynamic and static forum data.</b>
+      <b>1. Webscraper for dynamic and static forum data.</b>
   </a>
   </summary>
-  <p>ZH project.</p>
+  <p>ZH forum project.</p>
   </details>
 
   <details open>
   <summary>
     <a href="https://github.com/MRCSIBR/Alphacast_Practica_1"  target="_blank">
-      <b>ETL on INDEC food consumer prices with Alphacast library</b>
+      <b>2. ETL on INDEC food consumer prices with Alphacast library</b>
   </a>
   </summary>
   <p>Alphacast technical test</p>
