@@ -38,10 +38,10 @@
   <details open>
   <summary>
     <a href="https://github.com/MRCSIBR/Python_GoogleCLOUD"  target="_blank">
-      <b>1. Python script for uploading data to GCP</b>
+      <b>1. Python script for uploading data to Google Cloud</b>
   </a>
   </summary>
-  <p>Python script to upload Yahoo Finance data to Google Cloud Storage.</p>
+  <p>Python script to upload Yahoo Finance data to Google Cloud Storage (GCP).</p>
   </details>
   
   
