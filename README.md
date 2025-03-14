@@ -70,7 +70,7 @@
       <b>1. Webscraper for dynamic and static forum data.</b>
   </a>
   </summary>
-  <p>ZH forum project.</p>
+  <p>Zhihu forum project.</p>
   </details>
 
   <details open>
