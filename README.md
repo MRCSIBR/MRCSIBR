@@ -93,7 +93,7 @@
   <p>Python + Streamlit webapp to simulate the evolution of a crypto investment.</p>
   </details>
 
-### + MAchine Learning
+### + Machine Learning
 
 <details open>
   <summary>
@@ -110,4 +110,4 @@
 MRCSIBR/MRCSIBR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRCSIBR&theme=dark&layout=compact&count_private=true" />
+
