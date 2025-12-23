@@ -92,6 +92,20 @@
   </summary>
   <p>Python + Streamlit webapp to simulate the evolution of a crypto investment.</p>
   </details>
+
+### + MAchine Learning
+
+<details open>
+  <summary>
+    <a href="https://github.com/MRCSIBR/US-Housing-Market-Predictor-Macroeconomic-Supply-Demand-Approach"  target="_blank">
+      <b>1. Modelo de Regresión para la Predicción de Precios de Viviendas (Median Sale Price).</b>
+  </a>
+  </summary>
+  <p>ML proyect to infer future house prices based on historical data.</p>
+  </details>
+
+
+
 <!---
 MRCSIBR/MRCSIBR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
