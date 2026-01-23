@@ -95,14 +95,7 @@
 
 ### + Machine Learning
 
-<details open>
-  <summary>
-    <a href="https://github.com/MRCSIBR/US-Housing-Market-Predictor-Macroeconomic-Supply-Demand-Approach"  target="_blank">
-      <b>1. Modelo de Regresión para la Predicción de Precios de Viviendas (Median Sale Price).</b>
-  </a>
-  </summary>
-  <p>ML proyect to infer future house prices based on historical data.</p>
-  </details>
+
 
 
 
