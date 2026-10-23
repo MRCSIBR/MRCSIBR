@@ -19,19 +19,19 @@ Me apasiona automatizar infraestructuras, optimizar bases de datos y desplegar m
 ### 🚀 Proyectos Destacados
 
 #### 🏗️ Ingeniería de Datos & Automatización (Cloud)
-* **[Python_GoogleCLOUD](https://github.com):** Script automatizado para la extracción y carga directa de datos financieros (Yahoo Finance) hacia repositorios optimizados en Google Cloud Storage (GCP).
-* **[Script_Deploy_FastAPI](https://github.com):** Pipeline de automatización en Bash para estructurar, empaquetar en contenedores Docker y desplegar microservicios basados en FastAPI de manera ágil.
-* **[Dynamic Webscraper](https://github.com):** Desarrollo de scrapers para la extracción e ingesta de datos dinámicos y estáticos en foros a gran escala.
+* **[Python_GoogleCLOUD](https://github.com/MRCSIBR/Python_GoogleCLOUD):** Script automatizado para la extracción y carga directa de datos financieros (Yahoo Finance) hacia repositorios optimizados en Google Cloud Storage (GCP).
+* **[Script_Deploy_FastAPI](https://github.com/MRCSIBR/Script_Deploy_FastAPI):** Pipeline de automatización en Bash para estructurar, empaquetar en contenedores Docker y desplegar microservicios basados en FastAPI de manera ágil.
+* **[Dynamic Webscraper](https://github.com/MRCSIBR/ZH_webscraper):** Desarrollo de scrapers para la extracción e ingesta de datos dinámicos y estáticos en foros a gran escala.
 
 #### 📊 Data Analytics & MLOps Productivo
-* **[MLOps: Steam Recommendation System](https://github.com):** Ciclo completo de MLOps. Pipeline ETL aplicado a datos distribuidos de videojuegos + entrenamiento y despliegue de un modelo de recomendación mediante FastAPI en Render.
+* **[MLOps: Steam Recommendation System](m):** Ciclo completo de MLOps. Pipeline ETL aplicado a datos distribuidos de videojuegos + entrenamiento y despliegue de un modelo de recomendación mediante FastAPI en Render.
 * **[Data Analytics: CABA Traffic Accidents](https://github.com):** Análisis exploratorio de datos (EDA) y estructuración de un Dashboard interactivo en Streamlit integrado con bases de datos SQL para la toma de decisiones.
 * **[US Housing Market (Team Project)](https://github.com):** Rol clave como Cloud/Data Engineer. Responsable del aprovisionamiento de máquinas virtuales (VM), almacenamiento en Cloud Storage y modelado en BigQuery dentro de GCP.
 
 ---
 
 ### 🧠 Investigación & Proyectos Avanzados
-* **[HoloLLM](https://github.comHoloLLM):** Exploración y desarrollo sobre la arquitectura LLM (O1), inspirada en principios holográficos, neurociencia y teorías fundamentales de la física teórica.
+* **[HoloLLM - GHN_1](https://github.com/MRCSIBR/HoloLLM):** Exploración y desarrollo sobre la arquitectura LLM (O1), inspirada en principios holográficos, neurociencia y teorías fundamentales de la física teórica.
 
 ---
 
