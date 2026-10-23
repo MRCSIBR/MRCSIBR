@@ -1,6 +1,48 @@
-- 👋 Hola, mi nombre es Marcos Ibarra, Data Scientist de Cordoba, Argentina.
-- 🐧 Desarrollo con gnu/linux, Python, C, SQL, etc 
-- 🌱 En 2023 finalize exitosamente el bootcamp de Data Science soyhenry.com (Oct 2023).
+# 👋 Hola, soy Marcos D. Ibarra (MRCSIBR)
+
+### **Data Engineer | Cloud & Infrastructure Specialist** 
+📍 Córdoba, Argentina | 🗣️ English C1 (Fluid)
+
+Combinando una sólida base técnica en **Administración de Sistemas GNU/Linux** con metodologías modernas de **Ingeniería de Datos y MLOps**. 
+Me apasiona automatizar infraestructuras, optimizar bases de datos y desplegar modelos robustos en entornos productivos.
+
+---
+
+### 🛠️ Tecnologías & Herramientas Clave
+
+- **Infraestructura & OS:** GNU/Linux (SysAdmin), Bash Scripting, Docker, Unix Servers Core.
+- **Data Engineering & Cloud:** Google Cloud Platform (GCP), BigQuery, Cloud Storage, SQL, ETL Pipelines, Web Scraping.
+- **Desarrollo & ML/MLOps:** Python, FastAPI, Streamlit, Git/GitHub, Machine Learning (SoyHenry Alumnus).
+
+---
+
+### 🚀 Proyectos Destacados
+
+#### 🏗️ Ingeniería de Datos & Automatización (Cloud)
+* **[Python_GoogleCLOUD](https://github.com):** Script automatizado para la extracción y carga directa de datos financieros (Yahoo Finance) hacia repositorios optimizados en Google Cloud Storage (GCP).
+* **[Script_Deploy_FastAPI](https://github.com):** Pipeline de automatización en Bash para estructurar, empaquetar en contenedores Docker y desplegar microservicios basados en FastAPI de manera ágil.
+* **[Dynamic Webscraper](https://github.com):** Desarrollo de scrapers para la extracción e ingesta de datos dinámicos y estáticos en foros a gran escala.
+
+#### 📊 Data Analytics & MLOps Productivo
+* **[MLOps: Steam Recommendation System](https://github.com):** Ciclo completo de MLOps. Pipeline ETL aplicado a datos distribuidos de videojuegos + entrenamiento y despliegue de un modelo de recomendación mediante FastAPI en Render.
+* **[Data Analytics: CABA Traffic Accidents](https://github.com):** Análisis exploratorio de datos (EDA) y estructuración de un Dashboard interactivo en Streamlit integrado con bases de datos SQL para la toma de decisiones.
+* **[US Housing Market (Team Project)](https://github.com):** Rol clave como Cloud/Data Engineer. Responsable del aprovisionamiento de máquinas virtuales (VM), almacenamiento en Cloud Storage y modelado en BigQuery dentro de GCP.
+
+---
+
+### 🧠 Investigación & Proyectos Avanzados
+* **[HoloLLM](https://github.comHoloLLM):** Exploración y desarrollo sobre la arquitectura LLM (O1), inspirada en principios holográficos, neurociencia y teorías fundamentales de la física teórica.
+
+---
+
+### 📈 Formación Continua
+* **Data Science Bootcamp** | SoyHenry (2023)
+* **Linux Servers Workshop** | Secretaría de Extensión Universitaria - UNC (2013)
+* **Fundamentals of Unix** | Sun / Cisco Academy
+
+📫 **¿Querés conectar u optimizar la infraestructura de tus datos?**
+Encontrame en [LinkedIn](https://www.linkedin.com/in/marcos-d-ibarra/) o escribime directamente por acá.
+
 
 ### + Projects
   <details open>
