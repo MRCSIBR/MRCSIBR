@@ -1,148 +1,69 @@
-# 👋 Hola, soy Marcos D. Ibarra (MRCSIBR)
+# 👋 Hola, soy Marcos D. Ibarra (`MRCSIBR`)
 
-### **Data Engineer | Cloud & Infrastructure Specialist** 
-📍 Córdoba, Argentina | 🗣️ English C1 (Fluid)
+### **Data Engineer | Cloud & Infrastructure Specialist**
+📍 Córdoba, Argentina &nbsp;|&nbsp; 🗣️ Español (Nativo) · English C1 (Fluent) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/marcos-d-ibarra/)
 
-Combinando una sólida base técnica en **Administración de Sistemas GNU/Linux** con metodologías modernas de **Ingeniería de Datos y MLOps**. 
-Me apasiona automatizar infraestructuras, optimizar bases de datos y desplegar modelos robustos en entornos productivos.
+Combino una sólida base en **Administración de Sistemas GNU/Linux** con arquitecturas modernas de **Ingeniería de Datos, Cloud Computing y MLOps**. 
+Me especializo en diseñar pipelines ETL/ELT, optimizar bases de datos relacionales y analíticas, automatizar infraestructuras multi-cloud y desplegar modelos de Machine Learning e inferencia de LLMs en entornos productivos y locales.
 
 ---
 
-### 🛠️ Tecnologías & Herramientas Clave
+### 🛠️ Stack Tecnológico & Herramientas
 
-- **Infraestructura & OS:** GNU/Linux (SysAdmin), Bash Scripting, Docker, Unix Servers Core.
-- **Data Engineering & Cloud:** Google Cloud Platform (GCP), BigQuery, Cloud Storage, SQL, ETL Pipelines, Web Scraping.
-- **Desarrollo & ML/MLOps:** Python, FastAPI, Streamlit, Git/GitHub, Machine Learning (SoyHenry Alumnus).
+**Data Engineering & Databases**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets_&_APIs-010101?style=flat-square)
+
+**Cloud & Infraestructura (SysAdmin)**
+![Linux](https://img.shields.io/badge/GNU%2FLinux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_(RDS_%2F_IAM)-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**MLOps, Desarrollo & Visualización**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git_%26_GitHub-F05032?style=flat-square&logo=git&logoColor=white)
+![LLMs](https://img.shields.io/badge/Local_LLMs-llama.cpp_%2F_Vulkan-8A2BE2?style=flat-square)
+![Nim](https://img.shields.io/badge/Nim-FFE953?style=flat-square&logo=nim&logoColor=black)
 
 ---
 
 ### 🚀 Proyectos Destacados
 
-#### 🏗️ Ingeniería de Datos & Automatización (Cloud)
-* **[Python_GoogleCLOUD](https://github.com/MRCSIBR/Python_GoogleCLOUD):** Script automatizado para la extracción y carga directa de datos financieros (Yahoo Finance) hacia repositorios optimizados en Google Cloud Storage (GCP).
-* **[Script_Deploy_FastAPI](https://github.com/MRCSIBR/Script_Deploy_FastAPI):** Pipeline de automatización en Bash para estructurar, empaquetar en contenedores Docker y desplegar microservicios basados en FastAPI de manera ágil.
-* **[Dynamic Webscraper](https://github.com/MRCSIBR/ZH_webscraper):** Desarrollo de scrapers para la extracción e ingesta de datos dinámicos y estáticos en foros a gran escala.
+#### 🏗️ Ingeniería de Datos, Cloud & Automatización
+* **[US Housing Market — Cloud Architecture](https://github.com/MRCSIBR/PF_GRUPO):** *(Team Project)* Rol principal como Cloud/Data Engineer. Aprovisionamiento de máquinas virtuales, ingesta en **Google Cloud Storage** y modelado analítico de datos en **BigQuery** (GCP).
+* **[Python_GoogleCLOUD](https://github.com/MRCSIBR/Python_GoogleCLOUD):** Pipeline automatizado en Python para la extracción e ingesta directa de series financieras (Yahoo Finance) hacia repositorios en **Google Cloud Storage**.
+* **[Script_Deploy_FastAPI](https://github.com/MRCSIBR/Script_Deploy_FastAPI):** Automatización en **Bash** para estructurar, contenerizar en **Docker** y desplegar microservicios basados en **FastAPI** de forma ágil.
+* **[Dynamic & Static Forum Webscraper](https://github.com/MRCSIBR/ZH_webscraper):** Arquitectura de scraping para la extracción e ingesta a gran escala de datos dinámicos y estáticos (Zhihu).
+* **[ETL Precios al Consumidor (INDEC)](https://github.com/MRCSIBR/Alphacast_Practica_1):** Pipeline ETL procesando series históricas de precios de alimentos de Argentina mediante integración con la API/librería de Alphacast.
 
-#### 📊 Data Analytics & MLOps Productivo
-* **[MLOps: Steam Recommendation System](m):** Ciclo completo de MLOps. Pipeline ETL aplicado a datos distribuidos de videojuegos + entrenamiento y despliegue de un modelo de recomendación mediante FastAPI en Render.
-* **[Data Analytics: CABA Traffic Accidents](https://github.com):** Análisis exploratorio de datos (EDA) y estructuración de un Dashboard interactivo en Streamlit integrado con bases de datos SQL para la toma de decisiones.
-* **[US Housing Market (Team Project)](https://github.com):** Rol clave como Cloud/Data Engineer. Responsable del aprovisionamiento de máquinas virtuales (VM), almacenamiento en Cloud Storage y modelado en BigQuery dentro de GCP.
+#### 📊 Data Analytics, Finanzas & MLOps Productivo
+* **[MLOps: Steam Recommendation System](https://github.com/MRCSIBR/PI_ML_OPS):** Ciclo completo de MLOps. Pipeline ETL sobre datos distribuidos de Steam + entrenamiento y despliegue de un sistema de recomendación vía **FastAPI** en Render.
+* **[Data Analytics: Siniestros Viales en CABA](https://github.com/MRCSIBR/PI_DA):** Análisis exploratorio de datos (EDA) y desarrollo de un dashboard interactivo en **Streamlit** integrado con **SQL** para el análisis de accidentes de tránsito en Buenos Aires.
+* **[Crypto Historical Simulation Dashboard](https://github.com/MRCSIBR/Dashboard-Crypto-with-Historical-Simulation/tree/main):** Aplicación web interactiva en **Python + Streamlit** para simular y backtestear la evolución histórica de portafolios de criptoactivos.
+
+#### 🧠 Investigación, LLMs & Low-Level
+* **[HoloLLM - GHN_1](https://github.com/MRCSIBR/HoloLLM):** Investigación y desarrollo experimental sobre arquitecturas LLM, inspirada en principios holográficos, neurociencia y física teórica.
+* **[Autotype (Nim)](https://github.com/MRCSIBR/Autotype):** Utilidad ligera de automatización de entrada de teclado desarrollada en lenguaje **Nim** para alto rendimiento y bajo consumo de recursos.
 
 ---
 
-### 🧠 Investigación & Proyectos Avanzados
-* **[HoloLLM - GHN_1](https://github.com/MRCSIBR/HoloLLM):** Exploración y desarrollo sobre la arquitectura LLM (O1), inspirada en principios holográficos, neurociencia y teorías fundamentales de la física teórica.
+### 🎓 Formación & Certificaciones
+* **Data Science Bootcamp** — *SoyHenry* (2023)
+* **Linux Servers Workshop** — *Secretaría de Extensión Universitaria, UNC* (2013)
+* **Fundamentals of Unix** — *Sun Microsystems / Cisco Networking Academy*
 
 ---
 
-### 📈 Formación Continua
-* **Data Science Bootcamp** | SoyHenry (2023)
-* **Linux Servers Workshop** | Secretaría de Extensión Universitaria - UNC (2013)
-* **Fundamentals of Unix** | Sun / Cisco Academy
+### 📫 Contacto
 
-📫 **¿Querés conectar u optimizar la infraestructura de tus datos?**
-Encontrame en [LinkedIn](https://www.linkedin.com/in/marcos-d-ibarra/) o escribime directamente por acá.
+¿Buscás optimizar tu infraestructura de datos, automatizar despliegues en la nube o colaborar en proyectos de Data Engineering / MLOps?
 
-
-### + Projects
-  <details open>
-     <summary>
-       <a href="https://github.com/MRCSIBR/PI_DA"  target="_blank">
-         <b>1. Data Analytics: Road traffic accidents on CABA (Buenos Aires, Argentina).</b>
-     </a>
-     </summary>
-     <p>Data Analytics project with Streamlit dashboard and SQL integration.</p>
-  </details>
-   
-  <details open>
-     <summary>
-       <a href="https://github.com/MRCSIBR/PI_ML_OPS"  target="_blank">
-         <b>2. MLOps: ETL On Steam data + FastAPI deploy on Render.</b>
-     </a>
-     </summary>
-     <p>Cleaning data from Steam (Digital videogame distribution) + ML: Recommendation system.</p>
-  </details>
-   
-   <details open>
-     <summary>
-       <a href="https://github.com/MRCSIBR/PF_GRUPO"  target="_blank">
-         <b>3. Team Project: Housing Market USA.</b>
-     </a>
-     </summary>
-     <p>My role as a Cloud/Data Engineer involved working with various Google Cloud services, including VM machines, Google Cloud Storage, and BigQuery, to ensure efficient and secure data management and processing.</p>
-    
-   </details>
-   
-
-### + Automation / Scripts
-
-  
-  <details open>
-  <summary>
-    <a href="https://github.com/MRCSIBR/Python_GoogleCLOUD"  target="_blank">
-      <b>1. Python script for uploading data to Google Cloud</b>
-  </a>
-  </summary>
-  <p>Python script to upload Yahoo Finance data to Google Cloud Storage (GCP).</p>
-  </details>
-  
-  
-  <details open>
-  <summary>
-    <a href="https://github.com/MRCSIBR/Script_Deploy_FastAPI"  target="_blank">
-      <b>2. Bash script to deploy FastAPI + Docker</b>
-  </a>
-  </summary>
-  <p>Bash script to deploy a Docker container + FastAPI</p>
-  </details>
-
-   <details open>
-  <summary>
-    <a href="https://github.com/MRCSIBR/Autotype"  target="_blank">
-      <b>3. Autotype function in Nim language</b>
-  </a>
-  </summary>
-  <p>A small program to simulate keyboard typing.</p>
-   </details>
-
-### + Data Engineering
-  <details open>
-  <summary>
-    <a href="https://github.com/MRCSIBR/ZH_webscraper"  target="_blank">
-      <b>1. Webscraper for dynamic and static forum data.</b>
-  </a>
-  </summary>
-  <p>Zhihu forum project.</p>
-  </details>
-
-  <details open>
-  <summary>
-    <a href="https://github.com/MRCSIBR/Alphacast_Practica_1"  target="_blank">
-      <b>2. ETL on INDEC food consumer prices with Alphacast library</b>
-  </a>
-  </summary>
-  <p>Alphacast technical test</p>
-  </details>
-
-### + Finance
-
-<details open>
-  <summary>
-    <a href="https://github.com/MRCSIBR/Dashboard-Crypto-with-Historical-Simulation/tree/main"  target="_blank">
-      <b>1. Dashboard for crypto historical simulation.</b>
-  </a>
-  </summary>
-  <p>Python + Streamlit webapp to simulate the evolution of a crypto investment.</p>
-  </details>
-
-### + Machine Learning
-
-
-
-
-
-<!---
-MRCSIBR/MRCSIBR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+[![LinkedIn](https://img.shields.io/badge/Conectar_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-d-ibarra/)
