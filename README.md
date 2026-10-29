@@ -56,9 +56,9 @@ Me especializo en diseñar pipelines ETL/ELT, optimizar bases de datos relaciona
 ---
 
 ### 🎓 Formación & Certificaciones
-* **Data Science Bootcamp** — *SoyHenry* (2023)
-* **Linux Servers Workshop** — *Secretaría de Extensión Universitaria, UNC* (2013)
-* **Fundamentals of Unix** — *Sun Microsystems / Cisco Networking Academy*
+* **Data Science Bootcamp** — *Henry* (2023)
+* **Linux Servers Workshop** — *Departamento Universitario Informatica, UNC* (2013)
+* **Fundamentals of Unix** — *UTN Cordoba / Cisco Networking Academy*
 
 ---
 
